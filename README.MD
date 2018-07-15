@@ -1,13 +1,13 @@
-Fujitsu AI-NLP Challenge
+# Fujitsu AI-NLP Challenge
 
-Description:
+## Description:
 	Find the most relevant answer from a set of answer for a particular question. For more information please walthrough this link https://openinnovationgateway.com/ai-nlp-challenge/challenge.php
 
 
 Note: We executed this project on python3.5
 
 
-FYIP:
+## FYIP:
 
     Project Execution Main File is fujitsu_answer_sentence_selection.py
 
@@ -20,7 +20,7 @@ FYIP:
 
     3) main/evaluation.py is the file to get MRR score as per fujitsu standard
 
-Project Directory Structure:
+## Project Directory Structure:
 
 ```
 QA_Fujitsu_CNN/
