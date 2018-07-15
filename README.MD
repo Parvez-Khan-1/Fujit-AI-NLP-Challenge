@@ -22,6 +22,7 @@ FYIP:
 
 Project Directory Structure:
 
+```
 QA_Fujitsu_CNN/
    │
    ├- data/
@@ -54,3 +55,4 @@ QA_Fujitsu_CNN/
    │   └- fujitsu_answer_sentence_selection.py
    |
    └- README.MD
+```
