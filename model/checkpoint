@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/synerzip/Desktop/Work/QA_Fujitsu_CNN/model/tf_cnn.tfl"
+all_model_checkpoint_paths: "/home/synerzip/Desktop/Work/QA_Fujitsu_CNN/model/tf_cnn.tfl"
