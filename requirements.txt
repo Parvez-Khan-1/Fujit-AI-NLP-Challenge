@@ -1,4 +1,4 @@
-]tflearn== 0.3.2
+tflearn== 0.3.2
 pandas == 0.20.0
 spacy == 1.9.0
 nltk == 3.2.4
